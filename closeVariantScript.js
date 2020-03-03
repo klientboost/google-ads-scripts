@@ -4,7 +4,7 @@
  * @author spencer@klientboost.com
  * @version 1.0
  *
- * -------- INSTRUCTIONS --------
+ * -------------------------------- INSTRUCTIONS --------------------------------
  *
  * 1. Download this script and upload it to your Google Ads account under
  *    Tools & Settings > Bulk Actions > Scripts
